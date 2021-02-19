@@ -1,0 +1,72 @@
+{
+
+"ServerAuthorizedPerms": {
+"RegisterID": "809886563814473781",
+"BanSpearID": "809886563814473779",
+"JailSpearID": "809886563806609516",
+"MuteSpearID": "809886563806609517",
+"VoiceMuteSpearID": "809886563806609517",
+"AbilityID": "807971749865586695",
+"OzelRol": "809886563797303298"
+},
+
+"Channels": {
+"RulesLogChannelID": "809886563814473785",
+"BanLogChannelID": "812197199868985356",
+"JailLogChannelID": "812197287773470790",
+"MuteLogChannelID": "812197256866037801",
+"VoiceMuteLogChannelID": "812197362751111188"
+},
+
+"Penalties": {
+"JailRole": "809886563797303302",
+"MuteRole": "809886563797303303",
+"YasakliTag": "809886563797303300"
+},
+
+"ServerSettings": {
+"GuildID": "809886563797303296",
+"GuildName": "・Peding・Roow・",
+"KatildiRol": "809886563797303300",
+"ToplantiKanal": "812198297548226581",
+"UnregisterID": "809886563797303300",
+
+"ServerTag": "✥",
+"UnTag": "★"
+},
+
+"Colors": {
+"Mavi": "#49d2df",
+"Mor": "#af23e7",
+"Pembe": "#e723de",
+"Sarı": "#d8ca4c",
+"Altın": "#f7a831",
+"Magenta": "#da42ae",
+"Kırmızı": "#c72828",
+"Yesil": "#43dd64",
+"NoEmbed": "#2f3136",
+"Special": "cf8c44"
+},
+
+"Emoji": {
+"True": "<:yes:801044084541095947>",
+"False": "<:hayr:801044092145893406>",
+"TrueID": "801044084541095947",
+"FalseID": "801044092145893406"
+},
+
+"EmojiSayı": {
+"sifir": "",
+"bir": "",
+"iki": "",
+"uc": "",
+"dort": "",
+"bes": "",
+"alti": "",
+"yedi": "",
+"sekiz": "",
+"dokuz": ""
+}
+
+
+}

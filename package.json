@@ -1,0 +1,11 @@
+{
+  "name": "pedingbestjoder",
+  "version": "0.0.1",
+  "description": "PedingWizor",
+  "main": "peding-main.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "Peding :)",
+  "license": "ISC"
+}
